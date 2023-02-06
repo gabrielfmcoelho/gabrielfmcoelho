@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align=center>
 
-<!--
-**gabrielfmcoelho/gabrielfmcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="">
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+  
+  [![Texto flutuante](https://readme-typing-svg.demolab.com/?color=5e3cacff&lines=Bem+vindo+ao+meu+GitHub!;Iae,+tudo+bom+?;Meu+nome+é+Gabriel+Coelho)](https://git.io/typing-svg)
+
+
+</div>
+  
+# Sobre mim
+  
+
+
+# Stack de tecnologias
+  Principal: 
+  
+  
+# Projetos
+  Segue abaixo alguns dos meus projetos recentes ou interessantes
