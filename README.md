@@ -7,7 +7,7 @@
   
 # Sobre mim
   
-  Olá, tudo bom? Seja bem vindo ao meu github, aqui você irá encontrar alguns de meus projetos públicos (alguns pessoais, outros profissionais) e conhecer um pouco do que exploro. Aproveita e vem conhecer meu site tambem, lá vai poder encontrar muito mais informações, basta [clicar aqui](https://gabrielfmcoelho.github.io/).
+  Olá, tudo bom? Seja bem vindo ao meu github, aqui você irá encontrar alguns de meus projetos públicos (alguns pessoais, outros profissionais) e conhecer um pouco do que exploro. Aproveita e vem conhecer meu site tambem, lá vai poder encontrar muito mais informações, basta [clicar aqui](https://gabrielfmcoelho.github.io/). ou: https://gabrielfmcoelho.github.io/
   
   Fica ligado no que ando escutando:
   
@@ -18,17 +18,14 @@
 
 # Stacks de tecnologias
   Principal: 
-    * <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    * <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-    * <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+  
+  
     
   Algumas das minhas secundarias:
-    * <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-    * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    * <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    * <img src="[https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)">
-    * <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="[https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   
   
 # Projetos
