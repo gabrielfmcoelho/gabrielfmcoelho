@@ -1,32 +1,25 @@
-<div>
-  
-  [![Texto flutuante](https://readme-typing-svg.demolab.com/?color=5e3cacff&lines=Bem+vindo+ao+meu+GitHub!;Iae,+tudo+bom+?;Meu+nome+é+Gabriel+Coelho)](https://git.io/typing-svg)
+Welcome !
 
+Hello! I'm Gabriel Coelho, a seasoned Solutions Engineer, Tech Lead, and Project Manager with a strong background in developing B2G data intelligence solutions. I lead teams usually of over five people and am responsible for designing the on-demand inference architecture for the NVIDIA "Mandu" cluster in the state of Piauí.
 
-</div>
-  
-# Sobre mim
-  
-  Olá, tudo bom? Seja bem vindo ao meu github, aqui você irá encontrar alguns de meus projetos públicos (alguns pessoais, outros profissionais) e conhecer um pouco do que exploro. Aproveita e vem conhecer meu site tambem, lá vai poder encontrar muito mais informações, basta [clicar aqui](https://gabrielfmcoelho.github.io/). ou: https://gabrielfmcoelho.github.io/
-  
-  Fica ligado no que ando escutando:
-  
-  ![Meu spotfy](https://spotify-recently-played-readme.vercel.app/api?user=yqehftxzaync0qkq9oktptynl)
-  
-  Sou apaixonado por dados, desde como visuais bem estruturados podem contar uma historia até desenvolvimento de modelos de aprendizado de maquina, mas como compreender um pouco de cada area é sempre muito bom, irá encontrar aqui projetos que agregam front-end, back-end, dados e muitos mais.
- 
+Professionally, I am adept at utilizing various technology stacks depending on the solution being developed. My teams and I frequently use Python, Go, JavaScript, FastAPI, RabbitMQ, NextJS, Keycloak, Docker, Open-Source LLMs, and traditional Machine Learning, among other technologies.
 
-# Stacks de tecnologias
-  Principal: 
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> 
-  
-  
-    
-  Algumas das minhas secundarias:
-  
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  
-  
-# Projetos
-  Segue abaixo alguns dos meus projetos recentes ou interessantes....
+I believe in impact-driven development, focusing on projects that make a positive difference.
+
+About Me
+I invite you to explore my public projects here, which include both personal, professional endeavors and a lot of drafts. For more information, feel free to visit my website: https://inovadata.tech/.
+
+Technology Stacks
+Primary:
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+Secondary:
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+<img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Keycloak-2F4F7F?style=for-the-badge&logo=keycloak&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Open--source%20LLMs-FF69B4?style=for-the-badge&logo=opensource&logoColor=white">
